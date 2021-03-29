@@ -1,3 +1,4 @@
+[api .pdf](https://github.com/Odoia/user-api/files/6224282/api.pdf)
 # README
 
 This README would normally document whatever steps are necessary to get the
